@@ -1,8 +1,6 @@
-# jdbc
-
 ## Revisão de OO e SQL
 
-### Aula vamos revisar
+## Aula vamos revisar
 
 * Chave primária, chave estrangeira
 * DDL (create table, alter table)
@@ -11,22 +9,24 @@
 * SELECT
 * INNER JOIN
 * Classes e objetos
-Encapsulamento, get/set
-Tipos enumerados
-Composição de objetos
-Coleções (list, map)
-Acessar dados em BD relacional e instanciar objetos correspondentes
-Pré-requisitos
-Git
-JDK
-STS (ou outra IDE)
-Servidor Postgres
-pgAdmin
-Guia de instalação para Windows
+* Encapsulamento, get/set
+* Tipos enumerados
+* Composição de objetos
+* Coleções (list, map)
+* Acessar dados em BD relacional e instanciar objetos correspondentes
 
-Guia de instalação para Linux
+## Pré-requisitos
 
-Guia de instalação para Mac
+* * Git
+* * JDK
+* * STS (ou outra IDE)
+* * Servidor Postgres
+* * pgAdmin
+* * Guia de instalação para Windows
+
+<h2> Guia de instalação para Linux </h2>
+    
+## Guia de instalação para Mac
 
 Criação e instanciação da base de dados
 create table tb_order (
